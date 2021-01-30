@@ -17,4 +17,4 @@ let result = record.find( record => record.result === "W" )
 return !!result ? result.year : undefined
 }
 
-// !!result is boolean, 
+// !!result is boolean, using teranary
