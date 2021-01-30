@@ -6,6 +6,4 @@ function testFunc() {
 
 
 
-function superbowlWin(w){
-
-w.find( function(s) { return s.year === "W" })}
+function superbowlWin(w)
